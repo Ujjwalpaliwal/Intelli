@@ -60,7 +60,7 @@ const About = () => {
           viewport={{ once: true }}
         >
           <div className="flex-grow">
-            <ResponsiveContainer width="100%" height="100%">
+            <ResponsiveContainer width="100%" height={300}>
               <LineChart data={data}>
                 <CartesianGrid strokeDasharray="3 3" stroke="#51e88e20" />
                 <XAxis dataKey="time" stroke="#e9d051" label={{ value: 'Iteration Cycles', position: 'insideBottom', offset: -5, style: { textAnchor: 'middle', fill: '#e9d051' } }} />
