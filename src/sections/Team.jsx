@@ -4,7 +4,7 @@ import { motion } from 'motion/react'
 const members = [
   { name: 'Ujjwal Paliwal', role: 'AI and ML Engineer', image: '/images/UP.png' },
   { name: 'Shashwat Shinghal', role: 'IOT Engineer', image: '/images/SS.jpeg' },
-  { name: 'Tushar Varshney', role: 'Frontend Developer', image: '/images/TV.png' },
+  { name: 'Tushar Varshney', role: 'Frontend Developer', image: '/images/TV2.png' },
   { name: 'Daksh Dixit', role: 'Backend Developer', image: '/images/DD.jpeg' },
   { name: 'Priyanshu Sharma', role: 'UI/UX and Research', image: '/images/PS.jpeg' }
 ]
