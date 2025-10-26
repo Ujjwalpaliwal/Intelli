@@ -6,6 +6,7 @@ import Footer from '../src/components/Footer'
 import Hero from '../src/sections/Hero'
 import Team from '../src/sections/Team'
 import NavBar from '../src/components/NavBar'
+import TeamAchievements from './sections/TeamAchievements'
 
 const App = () => {
   return (
@@ -15,6 +16,7 @@ const App = () => {
       <Features/>
       <About/>
       <Team/>
+      <TeamAchievements/>
       <Contact/>
       <Footer/>
     </div>
